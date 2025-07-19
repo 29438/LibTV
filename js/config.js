@@ -123,6 +123,31 @@ const API_SITES = {
     // 这些影片和背后的产业已经使数百万男女“下海”，出卖自己的身体，甚至以此为生计。
     // 而作为观众无辜吗？毫无疑问，他们促成了黄色产业链的再生产。
     // 我们提供此警告，是希望您能认清这些内容的本质——它们是压迫和奴役的工具，而非娱乐。
+    xne: {
+        api: 'https://www.gdlsp.com/api/xml.php',
+        name: '香奈儿',
+        adult: true
+    },
+    ysj: {
+        api: 'https://www.xrbsp.com/api/xml.php',
+        name: '饮水机',
+        adult: true
+    },
+    msn: {
+        api: 'https://www.msnii.com/api/xml.php',
+        name: '美少女',
+        adult: true
+    },
+    lj: {
+        api: 'http://api.11bat.com/api.php/provide/vod/at/xml',
+        name: '辣椒',
+        adult: true
+    },
+    dd: {
+        api: 'https://dadiapi.com/apple_m3u8.php',
+        name: '大地',
+        adult: true
+    },
     ckzy: {
         api: 'https://www.ckzy1.com',
         name: 'CK资源',
