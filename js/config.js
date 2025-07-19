@@ -121,7 +121,7 @@ const API_SITES = {
     xne: {
         api: 'https://www.gdlsp.com/api/xml.php',
         name: '香奈儿',
-        adult: true
+        // adult: true
     },
     ysj: {
         api: 'https://www.xrbsp.com/api/xml.php',
