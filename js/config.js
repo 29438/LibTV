@@ -140,7 +140,7 @@ const API_SITES = {
         adult: true
     },
     lj: {
-        api: 'http://api.11bat.com/api.php/provide/vod/at/xml',
+        api: 'http://api.11bat.com/api.php/provide/vod/at/json',
         name: '辣椒',
         adult: true
     },
