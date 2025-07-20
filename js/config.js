@@ -123,6 +123,12 @@ const API_SITES = {
         name: '香奈儿',
         // adult: true
     },
+    hscang: {
+        api: 'https://hsckzy888.com/api.php/provide/vod/at/json',
+        name: 'hs仓库',
+        adult: true,
+        detail: 'https://hsckzy888.com'
+    },
     ysj: {
         api: 'https://www.xrbsp.com/api/xml.php',
         name: '饮水机',
