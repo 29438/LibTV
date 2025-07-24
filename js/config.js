@@ -113,6 +113,7 @@ const API_SITES = {
     subo: {
         api: 'https://subocaiji.com/api.php/provide/vod',
         name: '速播资源'
+    },
     lzi: {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
