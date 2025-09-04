@@ -14,7 +14,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'LibreTV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://tv.cpddd.tk',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
     version: '1.0.3'
@@ -22,7 +22,6 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
-<<<<<<< HEAD
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
@@ -203,14 +202,6 @@ const API_SITES = {
         adult: true,
         detail: 'https://hsckzy.vip'
     },
-=======
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
-        adult: true
-    }
-    //ARCHIVE https://telegra.ph/APIs-08-12
->>>>>>> 78ee8bbacc6494b58d0d03e4a1d3879f4cf5ccee
 };
 
 // 定义合并方法
